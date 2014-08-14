@@ -1,5 +1,6 @@
 {
   "name": "drupal/kw_manifests",
+  "type": "drupal-module",
   "repositories": [
     {
       "type": "composer",
