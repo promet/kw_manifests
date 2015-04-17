@@ -9,7 +9,7 @@
   ],
   "require": {
     "drupal/drupal": "7.*",
-    "drush/drush": "6.*"
+    "drush/drush": "6 - 7"
   }
 }
 

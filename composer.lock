@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "68d1e18263a28b3efa6b3854230c3d83",
+    "hash": "bdaba9797f3dabe9c82641a1ce6d970a",
     "packages": [
         {
             "name": "drupal/drupal",
@@ -82,16 +82,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "6.3.0",
+            "version": "6.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "b9e6c8c00da0fbf1227869cdf915b0c6cea466cc"
+                "reference": "1779c6c37d56235935e99d849bb4c910b632428e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/b9e6c8c00da0fbf1227869cdf915b0c6cea466cc",
-                "reference": "b9e6c8c00da0fbf1227869cdf915b0c6cea466cc",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/1779c6c37d56235935e99d849bb4c910b632428e",
+                "reference": "1779c6c37d56235935e99d849bb4c910b632428e",
                 "shasum": ""
             },
             "require": {
@@ -138,13 +138,12 @@
                 },
                 {
                     "name": "Jonathan Hedstrom",
-                    "email": "jhedstrom@gmail.com",
-                    "homepage": "http://professorbikeybike.com"
+                    "email": "jhedstrom@gmail.com"
                 }
             ],
             "description": "Drush is a command line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those of us who spend some of our working hours hacking away at the command prompt.",
             "homepage": "http://www.drush.org",
-            "time": "2014-05-27 13:12:35"
+            "time": "2015-03-26 02:02:45"
         }
     ],
     "packages-dev": [],
@@ -152,6 +151,7 @@
     "minimum-stability": "stable",
     "stability-flags": [],
     "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }
